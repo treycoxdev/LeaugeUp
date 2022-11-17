@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'PickleLeagueApi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_874898879DAC441195B9BB881DC548A8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D3766BD2F5E9476A8C21ACDFF8335321 }}
           package: .
