@@ -1,0 +1,5 @@
+{
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/c9f3b943-6212-41bc-9149-242a4f8656c9/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/PickleLeagueApi"
+}
